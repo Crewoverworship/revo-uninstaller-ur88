@@ -1,4 +1,4 @@
-# 
+# smart CCleaner PC版 扩展 是最佳 CCleaner PC版 扩展，集成 显示配置文件 和 启动优化。安全、可靠、优化，性能最大化。
 
 
 
